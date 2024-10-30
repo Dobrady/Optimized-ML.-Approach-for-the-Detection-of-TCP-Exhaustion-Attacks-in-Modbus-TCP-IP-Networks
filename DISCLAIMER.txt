@@ -1,0 +1,13 @@
+Usage Disclaimer
+
+This software is provided for research and educational purposes only. It is intended to be used solely in isolated or virtual environments to prevent any unintended harm to real systems or networks.
+
+Limitations on Use
+
+The authors do not endorse or permit the use of this software for unauthorized penetration testing, or for any malicious, unethical, or illegal purposes.
+
+Disclaimer of Liability
+
+The software is provided "as-is," without warranty of any kind. The author(s) assume no responsibility or liability for any direct, indirect, incidental, or consequential damages resulting from the use or misuse of this software. By using this software, you agree to comply with all applicable laws and regulations, and assume full responsibility for any actions taken based on the use of this software.
+
+For further information, please contact: Zoltan DOBRADY at zoltan.dobrady@hotmail.com
